@@ -17,7 +17,6 @@ Model is trained on real housing data from [house.kg](https://www.house.kg/).
 
 - Clean web interface (HTML + CSS)
 - Real-time prediction using trained ML model
-- Model trained on real dataset from [house.kg](https://house.kg)
 - Flask backend for serving model
 - Uses `RandomForestClassifier` from scikit-learn
 
